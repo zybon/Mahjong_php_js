@@ -2,4 +2,4 @@
 
 This game created with php and javascript.
 
-[Test page] (https://zybon.hu/jatek/mahjong/mahjong.php)
+Test page: https://zybon.hu/jatek/mahjong/mahjong.php
